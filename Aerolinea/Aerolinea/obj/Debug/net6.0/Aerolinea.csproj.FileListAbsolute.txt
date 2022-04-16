@@ -1,0 +1,15 @@
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\bin\Debug\net6.0\Aerolinea.exe
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\bin\Debug\net6.0\Aerolinea.deps.json
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\bin\Debug\net6.0\Aerolinea.runtimeconfig.json
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\bin\Debug\net6.0\Aerolinea.dll
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\bin\Debug\net6.0\Aerolinea.pdb
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.csproj.AssemblyReference.cache
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.GeneratedMSBuildEditorConfig.editorconfig
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.AssemblyInfoInputs.cache
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.AssemblyInfo.cs
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.csproj.CoreCompileInputs.cache
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.dll
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\refint\Aerolinea.dll
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.pdb
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\Aerolinea.genruntimeconfig.cache
+C:\BERNARDO\microservicios\modulo2\Aerolinea\Aerolinea\Aerolinea\obj\Debug\net6.0\ref\Aerolinea.dll
